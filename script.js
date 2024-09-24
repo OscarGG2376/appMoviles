@@ -32,3 +32,4 @@ let resta = a-b;
 let mensaje = "Hola mundo";
 let numero = 42;
 let Estudiante = true;
+
